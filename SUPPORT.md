@@ -16,5 +16,7 @@ CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
 Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
 
 Contact:support@support.com
-Laptop Support 
+
+Laptop support
+
 
