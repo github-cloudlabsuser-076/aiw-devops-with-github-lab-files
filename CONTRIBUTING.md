@@ -1,4 +1,4 @@
-# How to contribute to ContosoTraders - Part 1
+# How to contribute to ContosoTraders 
 
 This repo is a reference and learning resource and everyone is invited to contribute, however not all PRs will be accepted into the main branch (**`main`**).
 
