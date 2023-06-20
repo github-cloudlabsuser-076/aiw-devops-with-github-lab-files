@@ -1,10 +1,10 @@
-# How to contribute to ContosoTraders
+# How to contribute to ContosoTraders - Part 1
 
 This repo is a reference and learning resource and everyone is invited to contribute, however not all PRs will be accepted into the main branch (**`main`**).
 
 There's a general development strategy that's driven by @mithunshanbhag, who chooses, or defines criteria for choosing, the issues to include in the codebase, given a bunch of constraints and other guidelines.
 
-## Coding Standards
+## Coding Standards 
 
 There are no explicit coding standards so pay attention to the general coding style, that's (mostly) used everywhere.
 
